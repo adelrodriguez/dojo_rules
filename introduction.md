@@ -1,2 +1,2 @@
-Hello dojo!
-JavaScript
+* JavaScript
+* Git
